@@ -1,4 +1,4 @@
 simple-website
 ==============
 
-/* Hello World, this is a simple website ... */
+/* Hello world, this is a simple website ... */
